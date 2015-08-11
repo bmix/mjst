@@ -1,6 +1,7 @@
 # mjst
-Automatically exported from code.google.com/p/mjst  
-Original author seems to be: Andrea Giammarchi, residing at: https://www.blogger.com/profile/16277820774810688474
+Automatically exported from [code.google.com/p/mjst](code.google.com/p/mjst) 
+
+The original author is Andrea Giammarchi ([@WebReflection](https://twitter.com/WebReflection)), who resides at https://www.webreflection.co.uk  
 Original README follows:
 
 ## What
