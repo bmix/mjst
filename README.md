@@ -1,5 +1,5 @@
 # mjst
-Automatically exported from [code.google.com/p/mjst](code.google.com/p/mjst) 
+Automatically exported from [code.google.com/p/mjst](http://code.google.com/p/mjst) 
 
 The original author is Andrea Giammarchi ([@WebReflection](https://twitter.com/WebReflection)), who resides at https://www.webreflection.co.uk  
 Original README follows:
